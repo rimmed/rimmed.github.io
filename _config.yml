@@ -1,4 +1,29 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
-google_analytics:
 theme: 
+locale: en-US
+timezone: Europe/Kiev
+
+title: Rimmed's site
+title_separator: "|"
+description: This is personal blog, feature posts will be here
+repository: rimmed/rimmed.github.io
+
+author:
+  name     : Viacheslav Reutskiy
+  nickname : Rimmed
+  avatar   : "/images/avatar.jpg"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  email    : # optional
+  uri      : "http://your-site.com"
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email:
+  facebook:
+  github:
+  linkedin:
+  pinterest:
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
+teaser:
+google_analytics:
