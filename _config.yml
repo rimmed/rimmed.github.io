@@ -16,16 +16,15 @@
 title: Viacheslav Reutskyi blog
 email: reutskiy.v.v@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   This blog is personal web notebook. Here I'm collect the knowledge which taked
+   while work. I hope this information will be useful not only for me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:        rimmed
-pinterest_username:     rimmed
-linkedin_username:      rimmed
-google_plus_username:   rimmed
+pinterest_username:     reutskyi
+linkedin_username:      viacheslav-reutskyi-186829ab
+google_plus_username:   +ViacheslavReutskyi
 
 # Build settings
 markdown: kramdown
